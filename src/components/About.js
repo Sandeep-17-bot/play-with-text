@@ -5,7 +5,7 @@ export default function About(props) {
       <p>
         This app converts <strong>uppercase to lower case</strong> ,
         <strong>lowercase to uppercase</strong> and <strong>clear text</strong>
-        .It has <strong>Chanracter counter </strong> and{" "}
+        .It has <strong>Character counter </strong> and{" "}
         <strong>Word counter</strong>. I will add more functionalities later
         stay tuned. You can also change to
         <strong>Dark mode</strong>
