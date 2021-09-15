@@ -6,9 +6,9 @@ export default function About(props) {
         This app converts <strong>uppercase to lower case</strong> ,
         <strong>lowercase to uppercase</strong> and <strong>clear text</strong>
         .It has <strong>Character counter </strong> and{" "}
-        <strong>Word counter</strong>. I will add more functionalities later
-        stay tuned. You can also change to
-        <strong>Dark mode</strong>
+        <strong>Word counter</strong>. You can also change to
+        <strong>Dark mode</strong>. I will add more functionalities later stay
+        tuned.
       </p>
       <br />
       <h2>How I made this app-This app is made in react-js</h2>
