@@ -1,4 +1,4 @@
-# play-with-text
+# Play-with-text App
 Created with CodeSandbox using ReactJs
 
 * Beginner ReactJs Project 
